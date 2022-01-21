@@ -363,3 +363,11 @@ button:hover,
 .button.button-discord:hover,
 .button.button-discord:focus {
   filter: brightness(90%) }
+
+  /* Forum */
+.button.button-forum {
+  color: #FFFFFF;
+  background-color: #1DA1F2 }
+.button.button-twit:hover,
+.button.button-twit:focus {
+  filter: brightness(90%) }
