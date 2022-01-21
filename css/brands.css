@@ -355,3 +355,11 @@ button:hover,
 .button.button-xing:hover,
 .button.button-xing:focus {
   filter: brightness(90%) }
+
+  /* tp */
+.button.button-tp {
+  color: #FFFFFF;
+  background-color: #5865F2 }
+.button.button-discord:hover,
+.button.button-discord:focus {
+  filter: brightness(90%) }
