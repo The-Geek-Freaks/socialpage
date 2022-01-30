@@ -1,4 +1,7 @@
-# socialpage
+# TheGeekFreaks Socialpage
+https://tgf.click/social
+
+
 The use of the code provided here is free, since this code is just a change from the original code provided by LittleLink.
 https://littlelink.io
 https://github.com/sethcottle/littlelink
